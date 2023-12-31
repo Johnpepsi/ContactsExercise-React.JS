@@ -10,7 +10,7 @@ Challenge:
 //4. Import the contacts.js file to create card components.
 
 # About the exercise
-* This practice I worked on were implemented and built in https://codesandbox.io/p/sandbox/react-new. I learned to use calling the Properties, using array in such a clean code, also by importing JSX file in the right path of components.  
+* This practice I worked on were implemented and built in https://codesandbox.io/p/sandbox/react-new. I learned utilizing such as the Properties, array in very clean code, also by importing JSX file in the right path of components.  
 
 ## Takeaways in this exercise.
 
