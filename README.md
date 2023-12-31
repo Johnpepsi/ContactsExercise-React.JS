@@ -1,5 +1,6 @@
 ## Utilized tools: React.JS, JSX, DOM, Properties
 Challenge:
+
 //1. Apply CSS styles to App.jsx component to match the appearance on the completed app:
 
 //2. Extract the contact card as a reusable Card component.
