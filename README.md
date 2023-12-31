@@ -22,17 +22,20 @@ Challenge:
 2. Creating a Reusable Component:
 ![image](https://github.com/Johnpepsi/ContactsExercise-React.JS/assets/112512965/2539bb19-2665-49ce-8c0f-f8009613477d)
 
+
 - Extract the contact card from App.jsx to create a reusable card component.
 - This involves moving everything within the card div into a new component file.
 
 3. Implementing Props:
 ![image](https://github.com/Johnpepsi/ContactsExercise-React.JS/assets/112512965/f82e5699-32ed-4825-bfeb-01076a513814)
 
+
 - Use props to render the default card, such as Beyoncé's contact card, in the reusable component.
 - Replace hardcoded data with props in your new card component.
 
 4. Utilizing contacts.js:
 ![image](https://github.com/Johnpepsi/ContactsExercise-React.JS/assets/112512965/3728118d-aa3d-48fd-9bbf-86a164648c4a)
+
 
 - Use the pre-populated contacts.js file, which contains details and images, to render multiple contact cards.
 - By the end, you'll have a contact app with three cards, each showing different contacts but using the same reusable component.
